@@ -1,0 +1,49 @@
+{
+  "_from": "@suc/composition-hooks@^2.0.1",
+  "_id": "@suc/composition-hooks@2.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-Rmtoq8iCLiRpNOYjDpMw9sX50fQ=",
+  "_location": "/@suc/composition-hooks",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@suc/composition-hooks@^2.0.1",
+    "name": "@suc/composition-hooks",
+    "escapedName": "@suc%2fcomposition-hooks",
+    "scope": "@suc",
+    "rawSpec": "^2.0.1",
+    "saveSpec": null,
+    "fetchSpec": "^2.0.1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://172.18.66.66:31468/@suc/composition-hooks/download/@suc/composition-hooks-2.0.1.tgz",
+  "_shasum": "466b68abc8822e246934e6230e9330f6c5f9d1f4",
+  "_spec": "@suc/composition-hooks@^2.0.1",
+  "_where": "D:\\vue_project\\云南方志\\省志协同编纂\\collaborative-compilation-web",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@suc/composition-hooks",
+  "peerDependencies": {
+    "@vue/composition-api": "^1.1.0-beta.5",
+    "vue": "^2.6.12",
+    "vue-demi": "^0.11.2",
+    "vue-router": "^3.5.1",
+    "vuex": "^3.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://cowork.sucsoft.com:3443/suc-package/composition-hooks.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.1"
+}
